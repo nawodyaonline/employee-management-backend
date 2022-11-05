@@ -2,8 +2,6 @@ package com.brainfix.Employee.controllers;
 
 import com.brainfix.Employee.model.Employee;
 import com.brainfix.Employee.services.EmployeeService;
-import com.mysql.cj.log.Log;
-import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
